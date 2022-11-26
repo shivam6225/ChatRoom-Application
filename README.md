@@ -13,3 +13,12 @@ The server needs to be started first and clients can be connected later.
 Simple Chat room provides a bidirectional communication between client and server. 
 
 It enables users to seamlessly communicate with each other. The user has an option to login to the chatroom.
+
+<h3 align="center">Software Requirements</h3>
+<p align="left">
+</p>
+
+Socket.io and HarperDB was used to build this full stack, real-time chat application with chat rooms that can be accessed by anybody on the internet.
+
+This project is to develop a chat system based on JavaScript, React and Network concepts.
+Normally, using HTTP requests, the server cannot push data to the client in real time. But using Socket.io, the server is able to push real time information to the client about some events that happened on the server.
