@@ -1,3 +1,7 @@
-# ChatRoom-Application
+<h1 align="center">InstaChat Forum</h1>
+<p align="left">
+</p>
 
-ChatRoom Application built using React framework and HarperDB
+InstaChat Forum is simple chat room application using web sockets
+
+
