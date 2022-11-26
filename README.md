@@ -25,8 +25,6 @@ Normally, using HTTP requests, the server cannot push data to the client in real
 
 1) Frontend - React : React is a JavaScript library for buulding user interfaces. It is used to build single-page applications. It also allows us to create reusuable UI components.
 2) Backend - Node and Express
-
-👉 Express : Express is a minil and flexible Node.js web application framework that provides a robust set of features to develeop web and mobile applications.
-
-👉 Node : Node.js is an open source development platform for executing JavaScript code server-side. It is useful for developing applications that require a persistent connection from the browser to the server.
+<br>👉 Express : Express is a minimal and flexible Node.js web application framework that provides a robust set of features to develeop web and mobile applications.
+<br>👉 Node : Node.js is an open source development platform for executing JavaScript code server-side. It is useful for developing applications that require a persistent connection from the browser to the server.
 3) Database : HarperDB
