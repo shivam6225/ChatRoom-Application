@@ -23,4 +23,8 @@ Socket.io and HarperDB was used to build this full stack, real-time chat applica
 This project is to develop a chat system based on JavaScript, React and Network concepts.
 Normally, using HTTP requests, the server cannot push data to the client in real time. But using Socket.io, the server is able to push real time information to the client about some events that happened on the server.
 
-1) Frontend : React(A frontend JavaScript framework for building interactive applications): React is a JavaScript library for buulding user interfaces. It is used to build single-page applications. It also allows us to create reusuable UI components.
+1) Frontend - React : React is a JavaScript library for buulding user interfaces. It is used to build single-page applications. It also allows us to create reusuable UI components.
+2) Backend - Node and Express
+👉 Express : Express is a minil and flexible Node.js web application framework that provides a robust set of features to develeop web and mobile applications.
+👉 Node : Node.js is an open source development platform for executing JavaScript code server-side. It is useful for developing applications that require a persistent connection from the browser to the server.
+3) Database : HarperDB
