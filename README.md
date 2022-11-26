@@ -12,3 +12,4 @@ The server needs to be started first and clients can be connected later.
 
 Simple Chat room provides a bidirectional communication between client and server. 
 
+It enables users to seamlessly communicate with each other. The user has an option to login to the chatroom.
