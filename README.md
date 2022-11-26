@@ -33,3 +33,5 @@ Normally, using HTTP requests, the server cannot push data to the client in real
 <h3 align="center">Web Application</h3>
 <p align="left">
 </p>
+
+![image](https://user-images.githubusercontent.com/105263888/204079648-150a9006-1e66-4153-a28d-7c725556b39d.png)
