@@ -34,6 +34,5 @@ Normally, using HTTP requests, the server cannot push data to the client in real
 <p align="left">
 </p>
 
-<centre>
-![image](https://user-images.githubusercontent.com/105263888/204079648-150a9006-1e66-4153-a28d-7c725556b39d.png)
-</centre>
+
+   ![image](https://user-images.githubusercontent.com/105263888/204079648-150a9006-1e66-4153-a28d-7c725556b39d.png)
