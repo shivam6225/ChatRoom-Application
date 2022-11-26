@@ -27,4 +27,9 @@ Normally, using HTTP requests, the server cannot push data to the client in real
 2) Backend - Node and Express
 <br>👉 Express : Express is a minimal and flexible Node.js web application framework that provides a robust set of features to develeop web and mobile applications.
 <br>👉 Node : Node.js is an open source development platform for executing JavaScript code server-side. It is useful for developing applications that require a persistent connection from the browser to the server.
-3) Database : HarperDB
+3) Database : HarperDB : a data plus application platform that allows you to query data using either SQL or NoSQL. HarperDB also has a build-in API, saving us from having to write a lot of backend code.
+4) Real-Time communication : Socket.io : It allows the server to push information to the client in real time, when events occur on the server.
+
+<h3 align="center">Web Application</h3>
+<p align="left">
+</p>
