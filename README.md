@@ -41,3 +41,14 @@ Normally, using HTTP requests, the server cannot push data to the client in real
 ![image](https://user-images.githubusercontent.com/105263888/204079766-727930aa-5d97-4577-83ae-078bb2e3faa0.png)
 
 
+
+Advantages of ChatRoom: 
+
+Chat rooms can offer:
+
+1. Anonymity
+2. The chance to meet new people with different views
+3. The opportunity to get perspectives from around the world
+4. Easy to find people based on your age, gender identity, sexual orientation, interests, and goals (whether you're looking for social support or dating)
+5. Free and easy to use
+6. Offers unbiased opinions
